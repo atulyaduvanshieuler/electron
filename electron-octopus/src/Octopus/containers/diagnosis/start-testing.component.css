@@ -1,0 +1,19 @@
+.basic-body {
+    margin-left: 3vw;
+    margin-top: 3vw;
+}
+.blur-basic-body {
+    margin-left: 3vw;
+    margin-top: 3vw;
+    filter: blur(10px)
+}
+.gif-frame {
+    margin-left: 50vw;
+    margin-bottom: 10vw;
+}
+.round-button {
+    width: 18vw;
+    height: 18vw;
+    font-size: 1vw;
+    border-radius: 50%;
+}

@@ -1,0 +1,19 @@
+.basic-body {
+    margin-left: 10vh;
+    margin-right: 10vh; 
+    /* overflow: scroll;  */
+    margin-top: 15vh;
+    max-height: 100vh;
+    /* overflow-y: scroll; */
+}
+.round-button {
+    width: 8vw;
+    height: 8vw;
+    font-size: 2vw;
+    border-radius: 50%;
+}
+.blur-basic-body {
+    margin-left: 3vw;
+    margin-top: 3vw;
+    filter: blur(10px)
+}
